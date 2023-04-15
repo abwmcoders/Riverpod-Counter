@@ -1,0 +1,6 @@
+FLUTTER RIVERPOD STATE MANAGEMENT
+
+1. Inject provider scope() at the root -----> runApp()
+2. Create provider using stateProvider()
+3. Consumer class extends ConsumerWidget
+4. Use ref.read() to change the state.
